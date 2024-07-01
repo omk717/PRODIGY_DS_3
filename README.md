@@ -1,6 +1,5 @@
 # PRODIGY_DS_3
 Predicting Customer Purchases with Decision Tree Classifier Using Bank Marketing Data
-### Decision Tree Classifier for Customer Purchase Prediction
 
 ### Project Name:
 Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository
